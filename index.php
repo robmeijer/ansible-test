@@ -21,6 +21,7 @@
         Ansible Test
         <small>Test site for Ansible</small>
     </h1>
+    <h2>If you can read this, then it works</h2>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
